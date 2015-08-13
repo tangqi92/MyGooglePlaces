@@ -2,8 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="itangqi.me.mygoogleplaces">
 
-    <!-- PlacePicker requires the ACCESS_FINE_LOCATION permission and a geo API key.
-    -->
+    <!-- PlacePicker requires the ACCESS_FINE_LOCATION permission and a geo API key. -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -26,6 +25,7 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
+        <!-- Change to your API_KEY-->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDWF5Al83s2a9P1JctqM3um9usNXEpVa2U" />

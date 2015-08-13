@@ -82,7 +82,6 @@ public class MainActivity extends AppCompatActivity
 
         setContentView(R.layout.activity_main);
 
-
         // Retrieve the AutoCompleteTextView that will display Place suggestions.
         mAutocompleteView = (AutoCompleteTextView)
                 findViewById(R.id.autocomplete_places);
@@ -105,7 +104,6 @@ public class MainActivity extends AppCompatActivity
         mAutocompleteView.setAdapter(mAdapter);
     }
 
-
     private View.OnClickListener mOnClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View view) {
@@ -121,13 +119,14 @@ public class MainActivity extends AppCompatActivity
                         return;
                     }
                     String placeName = String.format("%s", likelyPlaces.get(0).getPlace().getName());
+                    String placeAttributuion = String.format("%s", likelyPlaces.get(0).getPlace().getAddress());
                     mPlaceDetailsText.setText(placeName);
+                    mPlaceDetailsAttribution.setText(placeAttributuion);
                     likelyPlaces.release();
                 }
             });
         }
     };
-
 
     /**
      * Listener that handles selections from suggestions from the AutoCompleteTextView that
@@ -161,8 +160,7 @@ public class MainActivity extends AppCompatActivity
             Log.i(TAG, "Called getPlaceById to get Place details for " + item.placeId);
         }
     };
-
-
+    
     /**
      * Callback for results from a Places Geo Data API query that shows the first place result in
      * the details view on screen.
