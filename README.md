@@ -42,7 +42,7 @@ This project uses the Gradle build system. To build this project, use the "gradl
 
 # Documentation
 
-[Google Places for Android 入门指南](http://itangqi.me/android/using-greendao-experience/)  
+[Google Places for Android 入门指南](http://itangqi.me/android/google-places-for-android-guide/)  
 
 # Thanks to
 
