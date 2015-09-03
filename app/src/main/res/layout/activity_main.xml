@@ -36,7 +36,7 @@
         android:paddingTop="@dimen/margin_8dp">
 
         <Button
-            android:id="@+id/ll_current_location"
+            android:id="@+id/btn_current_location"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"

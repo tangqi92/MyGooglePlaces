@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity
         mPlaceDetailsAttribution = (TextView) findViewById(R.id.place_attribution);
 
         // CurrentLocation
-        mCurrentLocation = (Button) findViewById(R.id.ll_current_location);
+        mCurrentLocation = (Button) findViewById(R.id.btn_current_location);
         mCurrentLocation.setOnClickListener(mOnClickListener);
 
         // Set up the adapter that will retrieve suggestions from the Places Geo Data API that cover

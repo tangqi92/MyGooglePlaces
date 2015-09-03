@@ -38,7 +38,7 @@ This project uses the Gradle build system. To build this project, use the "gradl
 
 
 # Download
-[MyGooglePlaces-1.0.0.apk](https://s3.amazonaws.com/github-cloud/releases/40534490/11e13f28-41a0-11e5-9c55-0f540d643717.apk?response-content-disposition=attachment%3B%20filename%3Dmygoogleplaces-1.0.0.apk&response-content-type=application/vnd.android.package-archive&AWSAccessKeyId=AKIAISTNZFOVBIJMK3TQ&Expires=1439433988&Signature=4RA9oKTTyN%2FrTFQDuPFvfNKeiRU%3D)
+[MyGooglePlaces-1.0.0.apk](https://github.com/tangqi92/MyGooglePlaces/releases/download/v1.0/mygoogleplaces-1.0.0.apk)
 
 # Documentation
 
