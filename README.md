@@ -50,7 +50,7 @@ This project uses the Gradle build system. To build this project, use the "gradl
 
 # Contact Me
 
-- Weibo：[@汤奇V](http://weibo.com/qiktang)
+- Weibo：[@Tang](http://weibo.com/qiktang)
 - Gmail：[imtangqi#gmail.com](mailto:imtangqi@gmail.com "欢迎与我联系")
 - Blog: [http://imtangqi.com](http://imtangqi.com)  
 
