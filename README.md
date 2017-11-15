@@ -42,7 +42,7 @@ This project uses the Gradle build system. To build this project, use the "gradl
 
 # Documentation
 
-项目主页：[Google Places for Android 入门指南](http://itangqi.me/2015/08/09/google-places-for-android-guide/)  
+项目主页：[Google Places for Android 入门指南](http://imtangqi.com/2015/08/09/google-places-for-android-guide/)  
 
 # Thanks to
 
