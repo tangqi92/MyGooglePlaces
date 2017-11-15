@@ -52,7 +52,7 @@ This project uses the Gradle build system. To build this project, use the "gradl
 
 - Weibo：[@汤奇V](http://weibo.com/qiktang)
 - Gmail：[imtangqi#gmail.com](mailto:imtangqi@gmail.com "欢迎与我联系")
-- Blog: [http://itangqi.me](http://itangqi.me)  
+- Blog: [http://imtangqi.com](http://imtangqi.com)  
 
 # License
 
